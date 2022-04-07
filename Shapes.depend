@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649359460 source:m:\kit_oji_2017\shapes\main.cpp
+	<iostream>
+	"classes.h"
+	<vector>
+
+1649356363 m:\kit_oji_2017\shapes\classes.h
+
+1649358040 source:m:\kit_oji_2017\shapes\functions.cpp
+	<iostream>
+	"classes.h"
+
